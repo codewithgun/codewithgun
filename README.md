@@ -1,8 +1,9 @@
 ### Hi there
 
 I'm a full-stack developer based in Malaysia.
-
 Love open source and decentralization technology.
+
+GPG: A072 9A70 6ED5 5AA1 BD6A  FC04 3C00 90E8 D6B7 F304
 <!--
 **codewithgun/codewithgun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

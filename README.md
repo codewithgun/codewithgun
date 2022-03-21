@@ -3,7 +3,7 @@
 I'm a full-stack developer based in Malaysia.
 Love open source, distributed and decentralization technology.
 
-Public key: https://keys.openpgp.org/vks/v1/by-fingerprint/A0729A706ED55AA1BD6AFC043C0090E8D6B7F304
+Understand how things works, not just some black-box magic.
 <!--
 **codewithgun/codewithgun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

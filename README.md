@@ -1,6 +1,5 @@
 ### Hi there
 
-I'm a full-stack developer based in Malaysia.
 Love open source, distributed and decentralization technology.
 
 Understand how things works, not just some black-box magic.
